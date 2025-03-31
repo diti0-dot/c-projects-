@@ -7,4 +7,5 @@ I didn't come up with these projects i made deepseek list the projects to love/g
 PROJECTS : 
 
 #1 Num guessing(1-100) : you guess num and it will give you one hint after 4 attempts and there are limitless guesses 
+
 #2 To-do list          : adds,deletes and sorts the tasks as per their priority 
